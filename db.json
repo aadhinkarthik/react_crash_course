@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn how browser's works",
+      "day": "Week 1",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Learn HTML & SCSS",
+      "day": "Week 2",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Develop React app",
+      "day": "Week 3",
+      "reminder": true
+    }
+  ]
+}
